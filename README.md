@@ -50,7 +50,7 @@ Displays most used emojis for sentiment and tone insights
 ## Screenshots / Demos
 show what the dashboard looks like
 
-<img width="1919" height="1079" alt="Screenshot 2025-03-17 171832" src="https://github.com/user-attachments/assets/75c8e674-d775-4027-afee-764bb4bfb381" />
+<img width="1908" height="1037" alt="Screenshot 2025-07-12 183525" src="https://github.com/user-attachments/assets/4a58c5a9-be25-4844-834d-be914eb8cba4" />
 <img width="1906" height="1021" alt="Screenshot 2025-07-12 184038" src="https://github.com/user-attachments/assets/76aad19a-4f21-45fe-869c-c89f19c74cac" />
 <img width="1911" height="1021" alt="Screenshot 2025-07-12 184228" src="https://github.com/user-attachments/assets/0d11e22d-9eea-4398-b70d-d24c6f00b8bb" />
 
